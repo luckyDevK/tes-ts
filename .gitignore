@@ -1,0 +1,23 @@
+# Dependency caches
+/node_modules/
+/vendor/
+
+# Compiled files and build artifacts
+/dist/
+/build/
+/target/
+*.log
+*.tmp
+*.bak
+
+# Operating System and Editor specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables and sensitive data
+.env
+config/secrets.js
