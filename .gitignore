@@ -3,7 +3,7 @@
 /vendor/
 
 # Compiled files and build artifacts
-
+/dist/
 /build/
 /target/
 *.log
